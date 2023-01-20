@@ -1,0 +1,5 @@
+pip install requests
+pip install pyfiglet 
+pip install folium
+
+py main.py
